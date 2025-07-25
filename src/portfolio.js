@@ -106,7 +106,7 @@ const educationInfo = {
       schoolName: "University of Huddersfield, United Kingdom",
       logo: require("./assets/images/huddersfieldLogo.jpeg"),
       subHeader: "Bachelor of Science in Computer Science- Upper Second Class Honours",
-      duration: "January 2020 - May 2020",
+      duration: "January 2020 - June 2022",
       descBullets: [
         " Geolocation-Based COVID Assistance Web App Developed a web application using Node.js and public health APIs to help users locate nearby COVID-19 testing and vaccination centers. This project combined real-time data integration, responsive UI, and RESTful API handling—laying the foundation for building socially impactful tech.",
         "Leadership as Course Representative Acted as a course representative, leading team-based software development projects. Introduced Git workflows, conducted code reviews, and facilitated team communication—skills that translated directly into real-world agile development environments.",
